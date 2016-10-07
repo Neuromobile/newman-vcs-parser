@@ -1,0 +1,19 @@
+{
+  "name": "newman-vcs-parser",
+  "version": "0.0.1",
+  "description": "A parser to transform Postman/newman collections to a versionable format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neuromobile/newman-vcs-parser.git"
+  },
+  "author": "Neuromobile",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Neuromobile/newman-vcs-parser/issues"
+  },
+  "homepage": "https://github.com/Neuromobile/newman-vcs-parser#readme"
+}
